@@ -15,7 +15,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute the app.
 
 ## Require Steps
   
-1 - open Terminal and run 'npm install' in app folder.  
+1 - open Terminal and run 'npm install' in app folder to install all aws-sdk required libraries.  
 
 2 - Run  'cdk bootstrp'
 
