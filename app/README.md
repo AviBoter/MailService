@@ -38,3 +38,5 @@ Note: you must subscribe your email address to the sns service in order to reciv
 * app-stack - the main app stack.
 * UserPoolStack - an AWS Cognito userpool to enable user based subscribtion rather a public endpoint (in my todo list).
 * EmailServiceStack - a stack contains all emailService related resources. 
+
+Note: authorizer are disable in order to allow easy testing process. 
