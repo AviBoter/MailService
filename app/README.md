@@ -34,6 +34,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute the app.
 
 2 - Use POSTMAN:
    create a POST method to the 'https://0n37jw61eb.execute-api.us-east-1.amazonaws.com/send' address.
+   
    body should be (JSON format):
    
       "num1": "Write An Int Number here!",
