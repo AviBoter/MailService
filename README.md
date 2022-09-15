@@ -48,4 +48,4 @@ Note: you must subscribe your email address to the sns service in order to reciv
 * UserPoolStack - an AWS Cognito userpool to enable user based subscribtion rather a public endpoint (in my todo list).
 * EmailServiceStack - a stack contains all emailService related resources. 
 
-Note: authorizer are disable in order to allow easy testing process. 
+Note: authorizer are disabled in order to allow easy testing process. 
